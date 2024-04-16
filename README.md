@@ -1,1 +1,1 @@
-Proyecto con Python con el Framework Streamlit y la libreria QRCode para la generación de un codigo QR atraves de un link desde una página web
+El proyecto consiste en desarrollar una aplicación web utilizando Python con el framework Streamlit y la librería QRCode. Esta aplicación permitirá a los usuarios generar códigos QR a partir de enlaces proporcionados por ellos mismos. El objetivo principal es ofrecer una herramienta intuitiva y fácil de usar para la creación rápida y personalizada de códigos QR.
